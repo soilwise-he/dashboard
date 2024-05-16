@@ -11,5 +11,5 @@ Dashboard is generaly percieved as consisting of:
 
 - [pycsw](https://github.com/soilwise-he/pycsw)
 - [LLM](https://github.com/soilwise-he/natural-language-querying) to provide chatbot
-- Dashboard software to provide overviews, such as [Apache superset]()
-- Data download component
+- Dashboard software to provide overviews, such as [Apache superset](https://superset.apache.org/)
+- [Data download](https://github.com/soilwise-he/data-download) component
